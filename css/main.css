@@ -1,0 +1,14 @@
+ #box1 {
+        width: 300px;
+        height: 100px;
+        background-color: black;
+        position: relative;
+        left: 20%;
+        top: 30%;
+        bottom:10%
+        -ms-transform: rotate(12deg); /* IE 9 */
+        -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+        transform: rotate(50deg);
+    }  
+    
+
